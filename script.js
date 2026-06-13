@@ -15,37 +15,37 @@ const questions = [
 {
 type:"image",
 title:"Câu 1: Chọn 1 hình ảnh thu hút bạn đầu tiên",
-time:5,
+time:15,
 images:["images/1 (1).png","images/1 (2).png","images/1 (3).png"]
 },
 {
 type:"image",
 title:"Câu 2: Chọn 1 hình ảnh thu hút bạn đầu tiên",
-time:5,
+time:15,
 images:["images/2 (1).png","images/2 (2).png","images/2 (3).png"]
 },
 {
 type:"image",
 title:"Câu 3: Chọn 1 hình ảnh thu hút bạn đầu tiên",
-time:5,
+time:15,
 images:["images/3 (1).png","images/3 (2).png","images/3 (3).png"]
 },
 {
 type:"image",
 title:"Câu 4: Chọn 1 hình ảnh thu hút bạn đầu tiên",
-time:5,
+time:15,
 images:["images/4 (1).png","images/4 (2).png","images/4 (3).png"]
 },
 {
 type:"image",
 title:"Câu 5: Chọn 1 hình ảnh thu hút bạn đầu tiên",
-time:5,
+time:15,
 images:["images/5 (1).png","images/5 (2).png","images/5 (3).png"]
 },
 {
 type:"image",
 title:"Câu 6: Chọn 1 hình ảnh thu hút bạn đầu tiên",
-time:5,
+time:15,
 images:["images/6 (1).png","images/6 (2).png","images/6 (3).png"]
 },
 
@@ -53,7 +53,7 @@ images:["images/6 (1).png","images/6 (2).png","images/6 (3).png"]
 {
 type:"multi",
 title:"Câu 7: Chọn 3 thương hiệu bạn nhớ nhất",
-time:15,
+time:60,
 max:3,
 options:[
 "AK SPA & BEAUTY","SPA TÂY THI","PHƯƠNG THẢO SPA",
@@ -71,7 +71,7 @@ options:[
 {
 type:"multi",
 title:"Câu 8: Chọn 2 yếu tố giúp nhận diện",
-time:10,
+time:45,
 max:2,
 options:["Màu sắc","Logo","Tên thương hiệu","Kiểu biển hiệu","Hình ảnh / biểu tượng"]
 },
@@ -80,7 +80,7 @@ options:["Màu sắc","Logo","Tên thương hiệu","Kiểu biển hiệu","Hìn
 {
 type:"multi",
 title:"Câu 9: Yếu tố quan trọng nhất",
-time:10,
+time:45,
 max:2,
 options:["Màu sắc nổi bật","Logo dễ nhận biết","Tên thương hiệu dễ đọc","Biển hiệu lớn rõ ràng","Biểu tượng đặc trưng"]
 },
@@ -89,7 +89,7 @@ options:["Màu sắc nổi bật","Logo dễ nhận biết","Tên thương hiệ
 {
 type:"single",
 title:"Câu 10: Thương hiệu dễ nhận biết nhất",
-time:10,
+time:30,
 max:1,
 options:[
 "AK SPA & BEAUTY","SPA TÂY THI","PHƯƠNG THẢO SPA",
